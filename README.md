@@ -1,9 +1,14 @@
 # NLP 101
-본 문서는 자연어 처리를 입문하고자 하는 분들을 대상으로 작성되었습니다.
+본 문서는 자연어 처리를 위한 공부를 하고자 하는 분들을 대상으로 작성되었습니다.
+추가되었으면 좋겠다 생각하시는 자료를 알려주시면 반영하도록 하겠습니다.
 
-- 같은 내용을 다루는 자료는 중복해서 적지 않습니다.
-- 한글 자료의 경우 영어 자료와 난이도가 같더라도 공유합니다.
-- 난이도의 차이가 있는 컨텐츠는 적습니다.
+본 문서는 아래와 같은 규칙을 따라 작성되었습니다.
+- 기본적으로 같은 내용을 다루는 자료는 중복해서 기록하지 않습니다. <br/>
+*e.g.) Dive into Deep Learning과 Deep Learning book 두 책 중 더 잘 쓰여짔다고 판단한 Deep Learning book을 기재하였습니다.*
+- 난이도가 유사하다고 생각한 자료는 하나만 기록합니다.
+- 다만, 유사 난이도를 보유한 자료가 한글 자료일 경우 영어에 어려움이 있으신 분들을 고려해 함께 기록합니다.
+- 난이도의 차이가 있는 자료, 이를테면 선후행이 수반되어야 하는 자료는 모두 기록합니다.
+<br/>
 
 ## Mathematics
 ### Statistics and Probabilities
@@ -17,7 +22,7 @@
 | source | level | description |
 |---|:---:|---:|
 | Linear Algebra(GS) | 유형(기준) 없음 / 배치 불가능 | `static` |
-| 이상화 선형대수 | 요소 자신을 기준으로 배치 |  |
+| 선형대수(이상화) | 요소 자신을 기준으로 배치 |  |
 | Matrix Calculation(GS) | 요소 자신을 기준으로 배치 |  |
 <br/>
 
@@ -25,14 +30,14 @@
 | source | level | description |
 |---|:---:|---:|
 | Basic Calculus(GS) | 유형(기준) 없음 / 배치 불가능 | `static` |
-| Mathematics for Machine Learning  | 요소 자신을 기준으로 배치 |  |
+| Mathematics for Machine Learning | 요소 자신을 기준으로 배치 |  |
 <br/>
 
 ## Deep Learning and NLP
 ### Deep Learning
 | source | level | description |
 |---|:---:|---:|
-| 모두를 위한 딥러닝 | 유형(기준) 없음 / 배치 불가능 | `static` |
+| 모두를 위한 딥러닝(Sung Kim) | 유형(기준) 없음 / 배치 불가능 | `static` |
 | 모두를 위한 딥러닝2 | 유형(기준) 없음 / 배치 불가능 | `static` |
 | Deep learning book | 요소 자신을 기준으로 배치 |  |
 <br/>
@@ -40,9 +45,9 @@
 ### Natural Language Processing 
 | source | level | description |
 |---|:---:|---:|
-| 조경현 교수 강의 | 유형(기준) 없음 / 배치 불가능 | `static` |
-| Neural Methods in NLP | 요소 자신을 기준으로 배치 |  |
-| CS224 | 요소 자신을 기준으로 배치 |  |
+| 딥러닝을 이용한 자연어 처리(Kyunghyun Cho) | 유형(기준) 없음 / 배치 불가능 | `static` |
+| Neural Methods in NLP(Yoav Goldberg) | 요소 자신을 기준으로 배치 |  |
+| CS224N(Chris Manning) | 요소 자신을 기준으로 배치 |  |
 <br/>
 
 ## Libraries related to Natural Language Processing
@@ -86,8 +91,8 @@
 
 | source | description | known for |
 |---|---:|:---:|
-| 조경현 | `static` | |
-| 최예진 |  | |
+| Kyunghyun Cho | `static` | |
+| Yejin Choi |  | |
 | Yoon Kim |  | |
 | Yoav Goldberg |  | |
 | Chris Manning |  | |
@@ -103,4 +108,4 @@
 김태훈, 김윤기, 지영채
 
 ### NLP
-박규병, 서민준, 김보섭, 민세원, Reinald Kim, 
+박규병, 서민준, 김보섭, 민세원, Reinald Kim
