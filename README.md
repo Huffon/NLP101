@@ -1,13 +1,14 @@
-# NLP 101
+# NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소
 본 문서는 자연어 처리를 위한 공부를 하고자 하는 분들을 대상으로 작성되었습니다.
 추가되었으면 좋겠다 생각하시는 자료를 알려주시면 반영하도록 하겠습니다.
 
 본 문서는 아래와 같은 규칙을 따라 작성되었습니다.
 - 기본적으로 같은 내용을 다루는 자료는 중복해서 기록하지 않습니다. <br/>
-*e.g.) Dive into Deep Learning과 Deep Learning book 두 책 중 더 잘 쓰여짔다고 판단한 Deep Learning book을 기재하였습니다.*
+*e.g.) Dive into Deep Learning과 Deep Learning book 중 더 잘 쓰여짔다고 판단한 Deep Learning book만 기록합니다.*
 - 난이도가 유사하다고 생각한 자료는 하나만 기록합니다.
 - 다만, 유사 난이도를 보유한 자료가 한글 자료일 경우 영어에 어려움이 있으신 분들을 고려해 함께 기록합니다.
 - 난이도의 차이가 있는 자료, 이를테면 선후행이 수반되어야 하는 자료는 모두 기록합니다.
+- 난이도 판단은 순전히 주관적으로 이루어졌습니다. 난이도 산정에 오류가 있다고 생각하시거나, 더 나은 산정 방안이 있다면 공유해주시길 바랍니다.
 <br/>
 
 ## Mathematics
@@ -33,7 +34,7 @@
 | Mathematics for Machine Learning | 요소 자신을 기준으로 배치 |  |
 <br/>
 
-## Deep Learning and NLP
+## Deep Learning and Natural Language Processing
 ### Deep Learning
 | source | level | description |
 |---|:---:|---:|
@@ -64,7 +65,8 @@
 ## AWE-SOME blog
 | source | what you should read |
 |---|:---:|
-| [Christopher Olha's Blog](https://colah.github.io/) | 유형(기준) 없음 / 배치 불가능 |
+| [Christopher Olah's Blog](https://colah.github.io/) | - [https://colah.github.io/posts/2015-08-Understanding-LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- blah |
 | jamhal | 요소 자신을 기준으로 배치 |
 | [Sebastian Ruder's Blog]() | 요소 자신을 기준으로 배치 |
 | soynlp | 요소 자신을 기준으로 배치 |
