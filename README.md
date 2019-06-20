@@ -11,7 +11,7 @@
 |---|:---:|---:|
 | STAT110 | 유형(기준) 없음 / 배치 불가능 | `static` |
 | 확률과 통계(이상화) | 요소 자신을 기준으로 배치 |  |
-
+<br/>
 
 ### Linear Algebra
 | source | level | description |
@@ -19,25 +19,23 @@
 | Linear Algebra(GS) | 유형(기준) 없음 / 배치 불가능 | `static` |
 | 이상화 선형대수 | 요소 자신을 기준으로 배치 |  |
 | Matrix Calculation(GS) | 요소 자신을 기준으로 배치 |  |
-
+<br/>
 
 ### Statistics and Probabilities
 | source | level | description |
 |---|:---:|---:|
-| STAT110 | 유형(기준) 없음 / 배치 불가능 | `static` |
-| 확률과 통계(이상화) | 요소 자신을 기준으로 배치 |  |
-Basic Calculus(GS)
-Mathmatics for Machine Learning 
-
+| Basic Calculus(GS) | 유형(기준) 없음 / 배치 불가능 | `static` |
+| Mathematics for Machine Learning  | 요소 자신을 기준으로 배치 |  |
+<br/>
 
 ## Deep Learning and NLP
 ### Deep Learning
 | source | level | description |
 |---|:---:|---:|
-| STAT110 | 유형(기준) 없음 / 배치 불가능 | `static` |
-| 확률과 통계(이상화) | 요소 자신을 기준으로 배치 |  |
-모두를 위한 딥러닝
-Deep learning book
+| 모두를 위한 딥러닝 | 유형(기준) 없음 / 배치 불가능 | `static` |
+| 모두를 위한 딥러닝2 | 유형(기준) 없음 / 배치 불가능 | `static` |
+| Deep learning book | 요소 자신을 기준으로 배치 |  |
+<br/>
 
 ### Natural Language Processing 
 | source | level | description |
@@ -45,9 +43,9 @@ Deep learning book
 | 조경현 교수 강의 | 유형(기준) 없음 / 배치 불가능 | `static` |
 | Neural Methods in NLP | 요소 자신을 기준으로 배치 |  |
 | CS224 | 요소 자신을 기준으로 배치 |  |
+<br/>
 
-
-## Library
+## Libraries related to Natural Language Processing
 | source | description |
 |---|---:|
 | NumPy Tutorial | `static` |
@@ -56,19 +54,20 @@ Deep learning book
 | NLTK |  |
 | CoreNLP |  |
 | KoNLPy | |
-
+<br/>
 
 ## AWE-SOME blog
-| source | level | description |
-|---|:---:|---:|
-| [Christopher Olha's Blog](https://colah.github.io/) | 유형(기준) 없음 / 배치 불가능 | `static` |
-| jamhal | 요소 자신을 기준으로 배치 |  |
-| [Sebastian Ruder's Blog]() | 요소 자신을 기준으로 배치 |  |
-| soynlp | 요소 자신을 기준으로 배치 |  |
-
+| source | what you should read |
+|---|:---:|
+| [Christopher Olha's Blog](https://colah.github.io/) | 유형(기준) 없음 / 배치 불가능 |
+| jamhal | 요소 자신을 기준으로 배치 |
+| [Sebastian Ruder's Blog]() | 요소 자신을 기준으로 배치 |
+| soynlp | 요소 자신을 기준으로 배치 |
+<br/>
 
 ## AWE-SOME NLP Papers
 내 repo 참고해라!
+<br/>
 
 ## Communities
 - [Tensorflow Korea]()
@@ -80,10 +79,11 @@ Deep learning book
 - [바벨피쉬]()
 - [GDG Seoul]()
 - [GDG Pangyo]()
-
+<br/>
 
 ## NLP Specilsts You should know
 *not enumarted by rank*
+
 | source | description | known for |
 |---|---:|:---:|
 | 조경현 | `static` | |
@@ -96,7 +96,7 @@ Deep learning book
 | Thomas Miklov |    | |
 | Quoc V le |    | |
 | Gram Neubig |    | |
-
+<br/>
 
 ## Korean Deep Learners who motivated me !
 ### General
