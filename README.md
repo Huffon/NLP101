@@ -54,8 +54,8 @@
 ## Libraries related to Natural Language Processing
 | source | description |
 |---|---:|
-| NumPy Tutorial | `static` |
-| PyTorch Tutorial |  |
+| [NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) | `static` |
+| [PyTorch Tutorial](https://pytorch.org/tutorials/) |  |
 | [SpaCy Tutorial](https://course.spacy.io/) |  |
 | NLTK |  |
 | CoreNLP |  |
@@ -63,12 +63,12 @@
 <br/>
 
 ## AWE-SOME blog
-| source | what you should read |
+| source | article you should read |
 |---|:---:|
-| [Christopher Olah's Blog](https://colah.github.io/) | - [https://colah.github.io/posts/2015-08-Understanding-LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- blah |
-| jamhal | 요소 자신을 기준으로 배치 |
-| [Sebastian Ruder's Blog]() | 요소 자신을 기준으로 배치 |
+| [Christopher Olah's Blog](https://colah.github.io/) | - [Understanding LSTM Networks
+](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) |
+| [Jay Alammar](http://jalammar.github.io/) | [Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) |
+| [Sebastian Ruder's Blog](http://ruder.io/) | [Tracking Progress in Natural Language Processing](https://nlpprogress.com/) |
 | soynlp | 요소 자신을 기준으로 배치 |
 <br/>
 
