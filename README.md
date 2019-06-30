@@ -22,15 +22,16 @@
 ### Linear Algebra
 | source | level | description |
 |---|:---:|---:|
-| Linear Algebra(GS) | 유형(기준) 없음 / 배치 불가능 | `static` |
+| Linear Algebra(Friedberg) | 유형(기준) 없음 / 배치 불가능 | `static` |
+| Linear Algebra(Gilbert Strang) | 유형(기준) 없음 / 배치 불가능 | `static` |
 | 선형대수(이상화) | 요소 자신을 기준으로 배치 |  |
-| Matrix Calculation(GS) | 요소 자신을 기준으로 배치 |  |
+| Matrix Calculation(Gilbert Strang) | 요소 자신을 기준으로 배치 |  |
 <br/>
 
-### Statistics and Probabilities
+### Basic mathematics & 
 | source | level | description |
 |---|:---:|---:|
-| Basic Calculus(GS) | 유형(기준) 없음 / 배치 불가능 | `static` |
+| Basic Calculus(Gilbert Strang) | 유형(기준) 없음 / 배치 불가능 | `static` |
 | Mathematics for Machine Learning | 요소 자신을 기준으로 배치 |  |
 <br/>
 
@@ -38,38 +39,38 @@
 ### Deep Learning
 | source | level | description |
 |---|:---:|---:|
-| 모두를 위한 딥러닝(Sung Kim) | 유형(기준) 없음 / 배치 불가능 | `static` |
-| 모두를 위한 딥러닝2 | 유형(기준) 없음 / 배치 불가능 | `static` |
-| Deep learning book | 요소 자신을 기준으로 배치 |  |
+| 모두를 위한 딥러닝(Sung Kim) | ●◐○○○ |  |
+| 모두를 위한 딥러닝2 | ●●●○○ |  |
+| Deep Learning Book | ●●●○○ |  |
 <br/>
 
 ### Natural Language Processing 
 | source | level | description |
 |---|:---:|---:|
-| 딥러닝을 이용한 자연어 처리(Kyunghyun Cho) | 유형(기준) 없음 / 배치 불가능 | `static` |
-| Neural Methods in NLP(Yoav Goldberg) | 요소 자신을 기준으로 배치 |  |
-| CS224N(Chris Manning) | 요소 자신을 기준으로 배치 |  |
+| 딥러닝을 이용한 자연어 처리(Kyunghyun Cho) | ●●◐○○ |  |
+| Neural Methods in NLP(Yoav Goldberg) | ●●●○○ |  |
+| CS224N(Chris Manning) | ●●●○○ |  |
+| CS224U(Chris Manning) | ●●●○○ |  |
 <br/>
 
 ## Libraries related to Natural Language Processing
 | source | description |
 |---|---:|
-| [NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) | `static` |
-| [PyTorch Tutorial](https://pytorch.org/tutorials/) |  |
-| [SpaCy Tutorial](https://course.spacy.io/) |  |
+| [NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) | 머신러닝 연산에 필수적으로 사용되는 파이썬 라이브러리 NumPy를 Stanford CS231N 강좌에서 정리해주었습니다. |
+| [PyTorch Tutorial](https://pytorch.org/tutorials/) | Facebook이 제공하는 PyTorch Tutorial로 현존하는 튜토리얼 중 최고의 퀄리티를 자랑합니다. |
+| [spaCy Tutorial](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 파이썬 라이브러리 spaCy의 핵심 개발자인 Ines가 작성한 튜토리얼입니다. |
 | NLTK |  |
 | CoreNLP |  |
 | KoNLPy | |
 <br/>
 
 ## AWE-SOME blog
-| source | article you should read |
+| blog | article you should read |
 |---|:---:|
-| [Christopher Olah's Blog](https://colah.github.io/) | - [Understanding LSTM Networks
-](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) |
+| [Christopher Olah's Blog](https://colah.github.io/) | [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) |
 | [Jay Alammar](http://jalammar.github.io/) | [Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) |
 | [Sebastian Ruder's Blog](http://ruder.io/) | [Tracking Progress in Natural Language Processing](https://nlpprogress.com/) |
-| soynlp | 요소 자신을 기준으로 배치 |
+| [김현중님 블로그](https://lovit.github.io/) | [Unsupervised tokenizers in soynlp project](https://lovit.github.io/nlp/2018/04/09/three_tokenizers_soynlp/) |
 <br/>
 
 ## AWE-SOME NLP Papers
@@ -77,32 +78,32 @@
 <br/>
 
 ## Communities
-- [Tensorflow Korea]()
-- [PyTorch Korea]()
-- [Keras Korea]()
-- [Reinforcement Korea]()
-- [AI Robotics Korea]()
-- [모두의 연구소]()
-- [바벨피쉬]()
-- [GDG Seoul]()
-- [GDG Pangyo]()
+- [Tensorflow Korea](https://www.facebook.com/groups/TensorFlowKR/)
+- [PyTorch Korea](https://www.facebook.com/groups/PyTorchKR/)
+- [Keras Korea](https://www.facebook.com/groups/KerasKorea/)
+- [Reinforcement Learning Korea](https://www.facebook.com/groups/ReinforcementLearningKR/)
+- [AI Robotics Korea](https://www.facebook.com/groups/airoboticskr/)
+- [모두의 연구소](http://home.modulabs.co.kr/)
+- [바벨피쉬](https://www.facebook.com/groups/babelPish/)
+- [GDG Seoul](https://www.facebook.com/groups/gdgseoul/)
+- [GDG Pangyo](https://www.facebook.com/groups/gdgpangyo/)
 <br/>
 
 ## NLP Specilsts You should know
 *not enumarted by rank*
 
-| source | description | known for |
+| name | description | known for |
 |---|---:|:---:|
-| Kyunghyun Cho | `static` | |
-| Yejin Choi |  | |
-| Yoon Kim |  | |
-| Yoav Goldberg |  | |
-| Chris Manning |  | |
-| Richard Socher |    | |
-| Sebastian Ruder |    | |
-| Thomas Miklov |    | |
-| Quoc V le |    | |
-| Gram Neubig |    | |
+| Kyunghyun Cho | Professor at NYU | [Attention] |
+| Yejin Choi | Professor at Washington Univ. | [Grover]() |
+| Yoon Kim | Ph.D Student at Harvard Univ. | [CNN]() |
+| Yoav Goldberg | Professor at Bar Ilan Univ. | [Neural Methods in NLP]() |
+| Chris Manning | Professor at Stanford Univ. | [CS224N]() |
+| Richard Socher | Researcher at Salesforce | []() |
+| Sebastian Ruder | Researcher at DeepMind | []() |
+| Thomas Miklov | Researcher at FAIR | [Word2vec]() |
+| Quoc V. le | Researcher at Google Brain | []() |
+| Graham Neubig | Professor at CMU | []() |
 <br/>
 
 ## Korean Deep Learners who motivated me !
