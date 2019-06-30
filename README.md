@@ -15,51 +15,51 @@
 ### Statistics and Probabilities
 | source | level | description |
 |---|:---:|---:|
-| STAT110 | 유형(기준) 없음 / 배치 불가능 | `static` |
-| 확률과 통계(이상화) | 요소 자신을 기준으로 배치 |  |
+| [Statistics 110](https://www.edwith.org/harvardprobability/) |  | Da |
+| [확률과 통계 (이상화)](http://www.kocw.net/home/search/kemView.do?kemId=1056974) |  | 한양대학교 이상화 교수님 강의로  |
 <br/>
 
 ### Linear Algebra
 | source | level | description |
 |---|:---:|---:|
-| Linear Algebra(Friedberg) | 유형(기준) 없음 / 배치 불가능 | `static` |
-| Linear Algebra(Gilbert Strang) | 유형(기준) 없음 / 배치 불가능 | `static` |
-| 선형대수(이상화) | 요소 자신을 기준으로 배치 |  |
-| Matrix Calculation(Gilbert Strang) | 요소 자신을 기준으로 배치 |  |
+| [Linear Algebra (Friedberg, 김영길 교수 강의)](https://www.youtube.com/watch?v=sDZB7ozFytk&list=PL9k2wIz8VsfOjzW_nU_yRPFBoyS5C7ttG&index=2&t=58s) | 유형(기준) 없음 / 배치 불가능 | `static` |
+| [Linear Algebra (Gilbert Strang)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) | 유형(기준) 없음 / 배치 불가능 | `static` |
+| [선형대수 (이상화)](http://www.kocw.net/home/search/kemView.do?kemId=977757) | 요소 자신을 기준으로 배치 |  |
+| [Matrix methods in Data Analysis, Signal Processing, and Machine Learning (Gilbert Strang)](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | 요소 자신을 기준으로 배치 |  |
 <br/>
 
 ### Basic mathematics & 
 | source | level | description |
 |---|:---:|---:|
-| Basic Calculus(Gilbert Strang) | 유형(기준) 없음 / 배치 불가능 | `static` |
-| Mathematics for Machine Learning | 요소 자신을 기준으로 배치 |  |
+| [Calculus (Gilbert Strang)](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) | 유형(기준) 없음 / 배치 불가능 | `static` |
+| [Mathematics for Machine Learning](https://mml-book.github.io/) | 요소 자신을 기준으로 배치 |  |
 <br/>
 
 ## Deep Learning and Natural Language Processing
 ### Deep Learning
 | source | level | description |
 |---|:---:|---:|
-| 모두를 위한 딥러닝(Sung Kim) | ●◐○○○ |  |
-| 모두를 위한 딥러닝2 | ●●●○○ |  |
-| Deep Learning Book | ●●●○○ |  |
+| [모두를 위한 딥러닝 (Sung Kim)](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) | ●◐○○○ |  |
+| [모두를 위한 딥러닝2](https://www.youtube.com/channel/UCC76Jmsg6SAjdvphzGSJMBQ) | ●●●○○ |  |
+| [Deep Learning Book (Ian Goodfellow)](https://www.deeplearningbook.org/) | ●●●○○ |  |
 <br/>
 
 ### Natural Language Processing 
 | source | level | description |
 |---|:---:|---:|
-| 딥러닝을 이용한 자연어 처리(Kyunghyun Cho) | ●●◐○○ |  |
-| Neural Methods in NLP(Yoav Goldberg) | ●●●○○ |  |
-| CS224N(Chris Manning) | ●●●○○ |  |
-| CS224U(Chris Manning) | ●●●○○ |  |
+| 딥러닝을 이용한 자연어 처리 (Kyunghyun Cho) | ●●◐○○ |  |
+| [Neural Network Methods for NLP (Yoav Goldberg)](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) | ●●●○○ |  |
+| [CS224N (Chris Manning)](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) | ●●●○○ |  |
+| [CS224U (Christopher Potts)](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) | ●●●○○ |  |
 <br/>
 
 ## Libraries related to Natural Language Processing
 | source | description |
 |---|---:|
-| [NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) | 머신러닝 연산에 필수적으로 사용되는 파이썬 라이브러리 NumPy를 Stanford CS231N 강좌에서 정리해주었습니다. |
+| [NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) | 머신러닝 연산에 필수적으로 사용되는 NumPy를 Stanford CS231N 강좌에서 정리해주었습니다. |
 | [PyTorch Tutorial](https://pytorch.org/tutorials/) | Facebook이 제공하는 PyTorch Tutorial로 현존하는 튜토리얼 중 최고의 퀄리티를 자랑합니다. |
-| [spaCy Tutorial](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 파이썬 라이브러리 spaCy의 핵심 개발자인 Ines가 작성한 튜토리얼입니다. |
-| NLTK |  |
+| [spaCy Tutorial](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 spaCy의 핵심 개발자 Ines가 작성한 튜토리얼입니다. |
+| [NLTK Tutorial](https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/) | 김도형 박사님이 제공하는 NLTK 튜토리얼로 보기도 편하며, 내용도 알찹니다. |
 | CoreNLP |  |
 | KoNLPy | |
 <br/>
@@ -89,15 +89,15 @@
 - [GDG Pangyo](https://www.facebook.com/groups/gdgpangyo/)
 <br/>
 
-## NLP Specilsts You should know
+## NLP Specialsts You should know
 *not enumarted by rank*
 
 | name | description | known for |
 |---|---:|:---:|
-| Kyunghyun Cho | Professor at NYU | [Attention] |
+| Kyunghyun Cho | Professor at NYU | [Attention]() |
 | Yejin Choi | Professor at Washington Univ. | [Grover]() |
 | Yoon Kim | Ph.D Student at Harvard Univ. | [CNN]() |
-| Yoav Goldberg | Professor at Bar Ilan Univ. | [Neural Methods in NLP]() |
+| Yoav Goldberg | Professor at Bar Ilan Univ. | [Neural Net Methods for NLP](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) |
 | Chris Manning | Professor at Stanford Univ. | [CS224N]() |
 | Richard Socher | Researcher at Salesforce | []() |
 | Sebastian Ruder | Researcher at DeepMind | []() |
@@ -105,10 +105,3 @@
 | Quoc V. le | Researcher at Google Brain | []() |
 | Graham Neubig | Professor at CMU | []() |
 <br/>
-
-## Korean Deep Learners who motivated me !
-### General
-김태훈, 김윤기, 지영채
-
-### NLP
-박규병, 서민준, 김보섭, 민세원, Reinald Kim
