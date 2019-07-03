@@ -14,14 +14,14 @@
 ## Mathematics
 ### Statistics and Probabilities
 | source | level | description |
-|---|:---:|---:|
-| [Statistics 110](https://www.edwith.org/harvardprobability/) | 1.5 | 문과생도 이해할 수 있을 정도로 쉬운 설명으로 확률론에 대한 설명을 해주는 강의입니다. |
+|---|:---:|---|
+| [Statistics 110](https://www.edwith.org/harvardprobability/) | 1.5 | 문과생도 이해할 수 있을 정도로 쉽게 확률론에 대한 설명을 해주는 강의입니다. |
 | [확률과 통계 (이상화)](http://www.kocw.net/home/search/kemView.do?kemId=1056974) | 2 | KOCW에서 높은 평점을 자랑하는 한양대학교 이상화 교수님의 확률과 통계 강의입니다. |
 <br/>
 
 ### Linear Algebra
 | source | level | description |
-|---|:---:|---:|
+|---|:---:|---|
 | [Linear Algebra (김영길)](https://www.youtube.com/watch?v=sDZB7ozFytk&list=PL9k2wIz8VsfOjzW_nU_yRPFBoyS5C7ttG&index=2&t=58s) | 2 | Gilbert Strang의 선형대수 책과 더불어 선형대수 입문서로 유명한 Friedberg의 Linear Algebra 교재를 김영길 교수님이 한국어로 강의하신 내용입니다. |
 | [Linear Algebra (Gilbert Strang)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) | 2.5 | Gilbert Strang의 전설적인 선형대수 강의입니다. |
 | [선형대수 (이상화)](http://www.kocw.net/home/search/kemView.do?kemId=977757) | 2.5 | KOCW에서 높은 평점을 자랑하는 한양대학교 이상화 교수님의 선형대수 강의입니다. |
@@ -30,15 +30,15 @@
 
 ### Basic mathematics & Overview
 | source | level | description |
-|---|:---:|---:|
-| [Calculus (Gilbert Strang)](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) | 2 | Gilbert Strang 교수의 대수학 교재입니다. 모든 부분을 볼 필요는 없지만, Chapter 2-4, 11-13, 15-16은 보면 좋을 것 같아 추가하였습니다. |
+|---|:---:|---|
+| [Calculus (Gilbert Strang)](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) | 2 | Gilbert Strang 교수의 미적분학 교재입니다. 모든 부분을 볼 필요는 없지만, Chapter 2-4, 11-13, 15-16은 보면 좋을 것 같아 추가하였습니다. |
 | [Mathematics for Machine Learning](https://mml-book.github.io/) | 3 | 머신러닝 학습을 위해 필요한 수학 지식을 모두 담은 책입니다. 개괄적인 설명을 이어나가기에 이공계 학부 수준의 수학 지식은 선행되어야 이해하기 수월하다고 생각합니다. |
 <br/>
 
 ## Deep Learning and Natural Language Processing
 ### Deep Learning
 | source | level | description |
-|---|:---:|---:|
+|---|:---:|---|
 | [모두를 위한 딥러닝 (Sung Kim)](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) | 1.5 | Clova AI에 속하신 김성훈님의 딥러닝 강의입니다. 입문 수준으로 이만한 강의가 없다고 생각합니다. |
 | [모두를 위한 딥러닝2](https://www.youtube.com/channel/UCC76Jmsg6SAjdvphzGSJMBQ) | 1.5 | 김성훈님 강좌의 후속작입니다. Tensorflow와 PyTorch 버전이 따로 있으며, 김성훈님 강의보다 최신 코드로 설명이 이어지기 때문에 가치가 있습니다. |
 | [Deep Learning Book (Ian Goodfellow)](https://www.deeplearningbook.org/) | 2.5 | Ian Goodfellow가 작성한 명서입니다. 영어에 어려움이 없으시다면, 해당 책을 꼭 모두 읽어보시길 권합니다. |
@@ -46,17 +46,17 @@
 
 ### Natural Language Processing 
 | source | level | description |
-|---|:---:|---:|
+|---|:---:|---|
 | 밑바닥부터 시작하는 딥러닝2 | 2.5 | 유명한 밑바닥 시리즈의 자연어 처리 버전입니다. 신경망 이론을 선수 지식으로 필요로 하기에 난이도가 살짝 있지만, 이해하기 위해 노력하면 한국어로 번역된 혹은 한국어로 작성된 자연어 책 중 최고라고 느끼실 수 있을 것 같습니다. |
 | 딥러닝을 이용한 자연어 처리 (Kyunghyun Cho) | 2 | 조경현 교수님이 D2 캠퍼스에서 강의하신 자연어 처리 강의입니다. 딥러닝 지식에 대한 복습 이후, 자연어 처리를 개괄적으로 설명해주기 때문에 딥러닝 기본 지식이 선수 지식으로 필요합니다. |
 | [Neural Network Methods for NLP (Yoav Goldberg)](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) | 3.5 | Yoav Goldberg가 작성한 딥러닝을 이용한 자연어 처리 전문 서적입니다. 위트있는 설명으로 핵심을 잘 짚어주는 명서입니다. |
-| [CS224N (Chris Manning)](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) | 2.5 | Stanford 대학의 자연어 처리 명강의입니다. 2019년 버전까지 나왔기 때문에 최신 트렌드까지 다룬다는 큰 장점이 있습니다. |
-| [CS224U (Christopher Potts)](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) | 3 | 올해 신설된 것으로 보이는 자연어 이해 강의입니다. CS224N 이후 수강하면 좋을 것 같아보이며, PyTorch로 과제를 제공하는 점이 매력적입니다. |
+| [CS224N (Chris Manning)](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) | 3.5 | Stanford 대학의 자연어 처리 명강의입니다. 2019년 버전까지 나왔기 때문에 최신 트렌드까지 다룬다는 큰 장점이 있습니다. |
+| [CS224U (Christopher Potts)](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) | 3.5 | 올해 신설된 것으로 보이는 자연어 이해 강의입니다. CS224N 이후 수강하면 좋을 것 같아보이며, PyTorch로 과제를 제공하는 점이 매력적입니다. |
 <br/>
 
 ## Libraries related to Natural Language Processing
 | source | description |
-|---|---:|
+|---|---|
 | [NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) | 머신러닝 연산에 필수적으로 사용되는 NumPy를 Stanford CS231N 강좌에서 정리해주었습니다. |
 | [PyTorch Tutorial](https://pytorch.org/tutorials/) | Facebook이 제공하는 PyTorch Tutorial로 현존하는 튜토리얼 중 최고의 퀄리티를 자랑합니다. |
 | [spaCy Tutorial](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 spaCy의 핵심 개발자 Ines가 작성한 튜토리얼입니다. |
