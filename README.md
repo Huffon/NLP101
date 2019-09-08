@@ -24,6 +24,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [선형대수학](https://www.youtube.com/watch?v=sDZB7ozFytk&list=PL9k2wIz8VsfOjzW_nU_yRPFBoyS5C7ttG&index=2&t=58s) | Gilbert Strang의 선형대수 책과 더불어 선형대수 입문서로 유명한 Friedberg의 Linear Algebra 교재를 김영길 교수님이 한국어로 강의하신 내용입니다. |
 | [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) | Gilbert Strang의 전설적인 선형대수 강의입니다. |
 | [선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757) | KOCW에서 높은 평점을 자랑하는 한양대학교 이상화 교수님의 선형대수 강의입니다. |
+| [인공지능을 위한 선형대수](https://m.edwith.org/linearalgebra4ai/lectures/14072) | 머신러닝에 사용되는 선형대수의 기초와 응용을 (친절하게) 다루고 있는 스타 교수 주재걸 교수님의 강의입니다. |
 | [Matrix methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Gilbert Strang 교수의 선형대수 응용편입니다. 선형대수를 선수 지식으로 하기에 난이도가 있지만, 실제 선형대수가 머신러닝에 어떻게 활용되는지 학습할 수 있는 좋은 강의입니다. |
 <br/>
 
