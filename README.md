@@ -21,10 +21,10 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 ### Linear Algebra
 | Source | Description |
 |:---:|---|
-| [선형대수학](https://www.youtube.com/watch?v=sDZB7ozFytk&list=PL9k2wIz8VsfOjzW_nU_yRPFBoyS5C7ttG&index=2&t=58s) | Gilbert Strang의 선형대수 책과 더불어 선형대수 입문서로 유명한 Friedberg의 Linear Algebra 교재를 김영길 교수님이 한국어로 강의하신 내용입니다. |
-| [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) | Gilbert Strang의 전설적인 선형대수 강의입니다. |
+| [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) | Gilbert Strang 교수의 전설적인 선형대수 강의입니다. |
 | [선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757) | KOCW에서 높은 평점을 자랑하는 한양대학교 이상화 교수님의 선형대수 강의입니다. |
 | [인공지능을 위한 선형대수](https://m.edwith.org/linearalgebra4ai/lectures/14072) | 머신러닝에서 자주 사용되는 선형대수의 기초와 응용을 _(친절하게)_ 다루고 있는 스타 교수 주재걸 교수님의 강의입니다. |
+| [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) | fast.ai의 Rachel Thomas가 강의한 코드를 통해 이해하는 선형대수 강의입니다. 엔지니어 분들이 선형대수를 이해하는데 최적의 강의라고 생각합니다. |
 | [Matrix methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Gilbert Strang 교수의 선형대수 응용편입니다. 선형대수를 선수 지식으로 하기에 난이도가 있지만, 실제 선형대수가 머신러닝에 어떻게 활용되는지 학습할 수 있는 좋은 강의입니다. |
 <br/>
 
@@ -73,7 +73,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 
 ## AWE-SOME blogs
 | Blog | Article you should read |
-|---|---|
+|---|:---:|
 | [Christopher Olah's Blog](https://colah.github.io/) | [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) |
 | [Jay Alammar's Blog](http://jalammar.github.io/) | [Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) |
 | [Sebastian Ruder's Blog](http://ruder.io/) | [Tracking Progress in Natural Language Processing](https://nlpprogress.com/) |
@@ -81,7 +81,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [Machine Learning Mastery](https://machinelearningmastery.com/) | [How to Develop a Neural Machine Translation System from Scratch](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/) |
 | [스캐터랩 핑퐁팀 블로그](https://blog.pingpong.us/) | [카톡 데이터는 어떻게 정제할 수 있을까?](https://blog.pingpong.us/dialog-bert-1/) |
 | [김현중님 블로그](https://lovit.github.io/) | [Unsupervised tokenizers in soynlp project](https://lovit.github.io/nlp/2018/04/09/three_tokenizers_soynlp/) |
-| [박상길님 블로그](https://likejazz.com/) | [BERT 톺아보기](http://docs.likejazz.com/bert/) |
+| [박상길님 블로그](http://docs.likejazz.com/) | [BERT 톺아보기](http://docs.likejazz.com/bert/) |
 | [ratsgo님 블로그](https://ratsgo.github.io/) | [Word2Vec의 학습 방식](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/) |
 <br/>
 
@@ -107,6 +107,8 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Kyunghyun Cho | Professor @NYU | [GRU](https://arxiv.org/abs/1406.1078) |
 | Yejin Choi | Professor @Washington Univ. | [Grover]() |
 | Yoon Kim | Ph.D Candidate @Harvard Univ. | [CNN for NLP](https://www.aclweb.org/anthology/D14-1181) |
+| Kyubyong Park | Researcher @Kakao Brain | [Paper implementation & NLP with Korean language](https://github.com/Kyubyong) |
+| Minjoon Seo | Researcher @Clova AI | [QA research](https://seominjoon.github.io/) |
 | Yoav Goldberg | Professor @Bar Ilan Univ. | [Neural Net Methods for NLP](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) |
 | Chris Manning | Professor @Stanford Univ. | [CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
 | Abigail See | Ph.D Candidate @Stanford Univ. | [Pointer Generator](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html) |
@@ -119,5 +121,10 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Jeremy Howard | Co-founder @Fast.ai | [ULMFiT](https://arxiv.org/abs/1801.06146) |
 | Graham Neubig | Professor @CMU | [Neural Nets for NLP](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
 | Thomas Wolf | Lead Engineer @Hugging face | [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
-| Kyubyong Park | Researcher @Kakao Brain | [Paper implementation & NLP with Korean language](https://github.com/Kyubyong) |
-| Minjoon Seo | Researcher @Clova AI | [QA research](https://seominjoon.github.io/) |
+
+## Research Conferences
+- [ACL](https://www.aclweb.org/portal/)
+- [NAACL](https://www.aclweb.org/anthology/venues/naacl/)
+- [EMNLP](https://www.aclweb.org/anthology/venues/emnlp/)
+- [ICML](https://icml.cc/)
+- [ICLR](https://www.iclr.cc/)
