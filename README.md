@@ -77,6 +77,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [Jay Alammar's Blog](http://jalammar.github.io/) | [Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) |
 | [Sebastian Ruder's Blog](http://ruder.io/) | [Tracking Progress in Natural Language Processing](https://nlpprogress.com/) |
 | [Thomas Wolf's Blog](https://medium.com/@Thomwolf) | [The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a) |
+| [Machine Learning Mastery](https://machinelearningmastery.com/) | [How to Develop a Neural Machine Translation System from Scratch](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/) |
 | [스캐터랩 핑퐁팀 블로그](https://blog.pingpong.us/) | [카톡 데이터는 어떻게 정제할 수 있을까?](https://blog.pingpong.us/dialog-bert-1/) |
 | [김현중님 블로그](https://lovit.github.io/) | [Unsupervised tokenizers in soynlp project](https://lovit.github.io/nlp/2018/04/09/three_tokenizers_soynlp/) |
 | [ratsgo님 블로그](https://ratsgo.github.io/) | [Word2Vec의 학습 방식](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/) |
@@ -93,6 +94,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 - [GDG Seoul](https://www.facebook.com/groups/gdgseoul/)
 - [GDG Pangyo](https://www.facebook.com/groups/gdgpangyo/)
 - [Montreal.AI](https://www.facebook.com/MontrealAI/)
+- [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup/)
 <br/>
 
 ## NLP Specialists You should remember
@@ -102,14 +104,16 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 |---|---:|:---:|
 | Kyunghyun Cho | Professor @NYU | [GRU](https://arxiv.org/abs/1406.1078) |
 | Yejin Choi | Professor @Washington Univ. | [Grover]() |
-| Yoon Kim | Ph.D Student @Harvard Univ. | [CNN for NLP](https://www.aclweb.org/anthology/D14-1181) |
+| Yoon Kim | Ph.D Candidate @Harvard Univ. | [CNN for NLP](https://www.aclweb.org/anthology/D14-1181) |
 | Yoav Goldberg | Professor @Bar Ilan Univ. | [Neural Net Methods for NLP](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) |
 | Chris Manning | Professor @Stanford Univ. | [CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
+| Abigail See | Ph.D Candidate @Stanford Univ. | [Pointer Generator](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html) |
 | Richard Socher | Researcher @Salesforce | [Glove](https://www.aclweb.org/anthology/D14-1162) |
 | Sebastian Ruder | Researcher @DeepMind | [NLP Progress](https://nlpprogress.com/) |
 | Tomas Mikolov | Researcher @FAIR | [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |
 | Quoc V. le | Researcher @Google Brain | [Doc2vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf) |
 | Ashish Vaswani | Researcher @Google | [Transformer](https://arxiv.org/abs/1706.03762) |
+| Alec Radford | Researcher @Open AI | [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
 | Graham Neubig | Professor @CMU | [Neural Nets for NLP lec](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
 | Thomas Wolf | Lead Engineer @Hugging face | [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
 | Kyubyong Park | Researcher @Kakao Brain | [Paper implementation & NLP with Korean language](https://github.com/Kyubyong) |
