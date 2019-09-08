@@ -114,7 +114,8 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Quoc V. le | Researcher @Google Brain | [Doc2vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf) |
 | Ashish Vaswani | Researcher @Google | [Transformer](https://arxiv.org/abs/1706.03762) |
 | Alec Radford | Researcher @Open AI | [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
-| Graham Neubig | Professor @CMU | [Neural Nets for NLP lec](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
+| Jeremy Howard | Co-founder @Fast.ai | [ULMFiT](https://arxiv.org/abs/1801.06146) |
+| Graham Neubig | Professor @CMU | [Neural Nets for NLP](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
 | Thomas Wolf | Lead Engineer @Hugging face | [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
 | Kyubyong Park | Researcher @Kakao Brain | [Paper implementation & NLP with Korean language](https://github.com/Kyubyong) |
 | Minjoon Seo | Researcher @Clova AI | [QA research](https://seominjoon.github.io/) |
