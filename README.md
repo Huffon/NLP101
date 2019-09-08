@@ -40,6 +40,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 |:---:|---|
 | [모두를 위한 딥러닝](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) | Clova AI를 리드하고 계신 김성훈님의 딥러닝 강의입니다. 입문 수준으로 최고의 강의입니다. |
 | [모두를 위한 딥러닝2](https://www.youtube.com/channel/UCC76Jmsg6SAjdvphzGSJMBQ) | 앞서 언급한 김성훈님 강좌의 후속작입니다. Tensorflow와 PyTorch 버전이 각각 존재하며, 최신 코드로 설명을 진행하기 때문에 가치가 있다고 생각합니다. |
+| [CS230](https://www.youtube.com/results?search_query=cs230) | 말이 필요없는, 최근 deeplearning.ai이라는 인공지능 교육 스타트업까지 설립한 Andrew Ng 교수님의 스탠포드 내 딥러닝 강의입니다. |
 | [Deep Learning Book](https://www.deeplearningbook.org/) | GAN의 아버지, Ian Goodfellow 주도로 작성된 명서입니다. 원서를 읽는데 어려움이 없으시다면, 해당 책은 꼭 읽어보시길 추천합니다. |
 <br/>
 
