@@ -67,6 +67,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [PyTorch](https://pytorch.org/tutorials/) | Facebook이 제공하는 PyTorch Tutorial로 현존하는 튜토리얼 중 최고의 퀄리티를 자랑합니다. |
 | [spaCy](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 spaCy의 핵심 개발자 Ines가 작성한 튜토리얼입니다. |
 | [torchtext](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/) | PyTorch 사용 시, 손 쉽게 데이터 전처리가 가능한 torchtext의 튜토리얼입니다. 공식 문서보다 더 자세한 설명을 수반하고 있습니다. |
+| [SentencePiece](https://github.com/google/sentencepiece) | Sub-word Information을 이용해 BPE 기반의 Vocabulary 구축을 도와주는 Google의 오픈 소스 라이브러리입니다. |
 | [KoNLPy](http://konlpy.org/en/latest/) | 한국어 자연어 처리에 있어 중요하게 활용되는 여러 형태소 분석기를 포함하고 있는 라이브러리입니다. |
 | [NLTK](https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/) | 김도형 박사님이 제공하는 NLTK 튜토리얼로 보기도 편하며, 내용도 알찹니다. |
 <br/>
@@ -94,6 +95,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 - [AI Robotics Korea](https://www.facebook.com/groups/airoboticskr/)
 - [모두의 연구소](http://home.modulabs.co.kr/)
 - [바벨피쉬](https://www.facebook.com/groups/babelPish/)
+- [챗봇 코리아](https://www.facebook.com/groups/ChatbotDevKR/)
 - [GDG Seoul](https://www.facebook.com/groups/gdgseoul/)
 - [GDG Pangyo](https://www.facebook.com/groups/gdgpangyo/)
 - [Montreal.AI](https://www.facebook.com/MontrealAI/)
