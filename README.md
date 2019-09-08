@@ -78,6 +78,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [Thomas Wolf's Blog](https://medium.com/@Thomwolf) | [The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a) |
 | [스캐터랩 핑퐁팀 블로그](https://blog.pingpong.us/) | [카톡 데이터는 어떻게 정제할 수 있을까?](https://blog.pingpong.us/dialog-bert-1/) |
 | [김현중님 블로그](https://lovit.github.io/) | [Unsupervised tokenizers in soynlp project](https://lovit.github.io/nlp/2018/04/09/three_tokenizers_soynlp/) |
+| [ratsgo님 블로그](https://ratsgo.github.io/) | [Word2Vec의 학습 방식](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/) |
 <br/>
 
 ## Communities
@@ -107,6 +108,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Sebastian Ruder | Researcher @DeepMind | [NLP Progress](https://nlpprogress.com/) |
 | Tomas Mikolov | Researcher @FAIR | [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |
 | Quoc V. le | Researcher @Google Brain | [Doc2vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf) |
+| Ashish Vaswani | Researcher @Google | [Transformer](https://arxiv.org/abs/1706.03762) |
 | Graham Neubig | Professor @CMU | [Neural Nets for NLP lec](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
 | Thomas Wolf | Lead Engineer @Hugging face | [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
 | Kyubyong Park | Researcher @Kakao Brain | [Paper implementation & NLP with Korean language](https://github.com/Kyubyong) |
