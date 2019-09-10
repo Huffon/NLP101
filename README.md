@@ -113,13 +113,16 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Minjoon Seo | Researcher @Clova AI | [QA research](https://seominjoon.github.io/) |
 | Kyubyong Park | Researcher @Kakao Brain | [Paper implementation & NLP with Korean language](https://github.com/Kyubyong) |
 | Tomas Mikolov | Researcher @FAIR | [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |
+| Jason Weston | Researcher @FAIR | [Memory Networks](https://arxiv.org/abs/1410.3916) |
 | Chris Manning | Professor @Stanford Univ. | [CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
 | Abigail See | Ph.D Candidate @Stanford Univ. | [Pointer Generator](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html) |
 | Richard Socher | Researcher @Salesforce | [Glove](https://www.aclweb.org/anthology/D14-1162) |
 | Sebastian Ruder | Researcher @DeepMind | [NLP Progress](https://nlpprogress.com/) |
 | Yoav Goldberg | Professor @Bar Ilan Univ. | [Neural Net Methods for NLP](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) |
-| Quoc V. le | Researcher @Google Brain | [Doc2vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf) |
+| Matthew Peters | Researcher @Allen AI | [ELMo](https://arxiv.org/abs/1802.05365) |
+| Luke Zettlemoyer | Professor @Washington Univ. | [ELMo](https://arxiv.org/abs/1802.05365) |
 | Ashish Vaswani | Researcher @Google | [Transformer](https://arxiv.org/abs/1706.03762) |
+| Jacob Devlin | Researcher @Google | [BERT](https://arxiv.org/abs/1810.04805) |
 | Alec Radford | Researcher @Open AI | [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
 | Graham Neubig | Professor @CMU | [Neural Nets for NLP](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
 | Jeremy Howard | Co-founder @Fast.ai | [ULMFiT](https://arxiv.org/abs/1801.06146) |
