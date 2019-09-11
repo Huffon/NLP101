@@ -77,7 +77,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 |---|:---:|
 | [Christopher Olah's Blog](https://colah.github.io/) | [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) |
 | [Jay Alammar's Blog](http://jalammar.github.io/) | [Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) |
-| Chris McCormick's Blog](http://mccormickml.com/) | [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) |
+| [Chris McCormick's Blog](http://mccormickml.com/) | [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) |
 | [Sebastian Ruder's Blog](http://ruder.io/) | [Tracking Progress in Natural Language Processing](https://nlpprogress.com/) |
 | [Thomas Wolf's Blog](https://medium.com/@Thomwolf) | [The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a) |
 | [dair.ai](https://medium.com/dair-ai) | [A Light Introduction to Transfer Learning for NLP](https://medium.com/dair-ai/a-light-introduction-to-transfer-learning-for-nlp-3e2cb56b48c8) |
