@@ -116,6 +116,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Minjoon Seo | Researcher @Clova AI | [QA research](https://seominjoon.github.io/) |
 | Kyubyong Park | Researcher @Kakao Brain | [Paper implementation & NLP with Korean language](https://github.com/Kyubyong) |
 | Tomas Mikolov | Researcher @FAIR | [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |
+| Omer Levy | Researcher @FAIR | [Various Word Embedding techniques](https://scholar.google.co.il/citations?user=PZVd2h8AAAAJ&hl=en) |
 | Jason Weston | Researcher @FAIR | [Memory Networks](https://arxiv.org/abs/1410.3916) |
 | Yinhan Liu | Researcher @FAIR | [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf) |
 | Guillaume Lample | Researcher @FAIR | [XLM](https://arxiv.org/pdf/1901.07291.pdf)]
