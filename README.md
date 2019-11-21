@@ -57,7 +57,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [CS224U ](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) |  올해 신설된 것으로 보이는 자연어 이해 강의입니다. CS224N 이후 수강하면 좋을 것 같아보이며, PyTorch로 과제를 제공한다는 점이 매력적입니다. |
 | [Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) | fast.ai의 공동 설립자 Rachel Thomas가 진행하는 코드로 이해하는 자연어 처리 강의입니다. 강의를 듣다보면 Rachel Thomas가 내뿜는 Motivation에서 헤어나올 수 없게 됩니다. | 
 | [Natural Language Processing with PyTorch](https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236) | 양질의 데이터 과학 책을 출판하기로 유명한 O'REILLY 사의 자연어 처리 서적입니다. 기본 코드가 PyTorch로 작성되어 있으므로, PyTorch 유저분들이 읽기 좋은 책입니다. |
-| [Linguistic Fundamentals for Natural Language Processing](https://www.amazon.com/Linguistic-Fundamentals-Natural-Language-Processing/dp/1627050116) | 딥러닝 관련 자연어 처리 서적은 아니지만 언어학과 관련된 도메인 지식을 기를 수 있는 훌륭한 언어학 입문 서적입니다. |
+| [Linguistic Fundamentals for Natural Language Processing](https://www.amazon.com/Linguistic-Fundamentals-Natural-Language-Processing/dp/1627050116) | Bender rule로 유명한 언어학자 Emily Bender의 언어학 서적입니다. 딥러닝 관련 서적은 아니지만 언어학과 관련된 도메인 지식을 기를 수 있는 훌륭한 입문서입니다. |
 
 <br/>
 
@@ -65,7 +65,8 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Source | Description |
 |:---:|---|
 | [NumPy](http://cs231n.github.io/python-numpy-tutorial/) | 머신러닝 연산에 필수적으로 사용되는 NumPy를 Stanford CS231N 강좌에서 정리해주었습니다. |
-| [PyTorch](https://pytorch.org/tutorials/) | Facebook이 제공하는 PyTorch Tutorial로 현존하는 튜토리얼 중 최고의 퀄리티를 자랑합니다. |
+| [PyTorch](https://pytorch.org/tutorials/) | Facebook이 제공하는 PyTorch Tutorial로 양질의 퀄리티를 자랑합니다. |
+| [Tensorflow](https://www.tensorflow.org/tutorials/text/word_embeddings) | Tensorflow에서 직접 제공하는 튜토리얼로, 최근 퀄리티가 급상승하였습니다. 기본적인 지식을 그림 자료와 함께 훌륭하고 설명합니다. |
 | [spaCy](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 spaCy의 핵심 개발자 Ines가 작성한 튜토리얼입니다. |
 | [torchtext](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/) | PyTorch 사용 시, 손 쉽게 데이터 전처리가 가능한 torchtext의 튜토리얼입니다. 공식 문서보다 더 자세한 설명을 수반하고 있습니다. |
 | [SentencePiece](https://github.com/google/sentencepiece) | Sub-word Information을 이용해 BPE 기반의 Vocabulary 구축을 도와주는 Google의 오픈 소스 라이브러리입니다. |
@@ -113,7 +114,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Kyunghyun Cho | Professor @NYU | [GRU](https://arxiv.org/abs/1406.1078) |
 | Yejin Choi | Professor @Washington Univ. | [Grover](https://arxiv.org/abs/1905.12616) |
 | Yoon Kim | Ph.D Candidate @Harvard Univ. | [CNN for NLP](https://www.aclweb.org/anthology/D14-1181) |
-| Minjoon Seo | Researcher @Clova AI | [QA research](https://seominjoon.github.io/) |
+| Minjoon Seo | Researcher @Clova AI | [BiDAF](https://arxiv.org/abs/1611.01603) |
 | Kyubyong Park | Researcher @Kakao Brain | [Paper implementation & NLP with Korean language](https://github.com/Kyubyong) |
 | Tomas Mikolov | Researcher @FAIR | [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |
 | Omer Levy | Researcher @FAIR | [Various Word Embedding techniques](https://scholar.google.co.il/citations?user=PZVd2h8AAAAJ&hl=en) |
@@ -134,6 +135,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Chris Manning | Professor @Stanford Univ. | [CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
 | Dan Jurafsky | Professor @Stanford Univ. | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | Abigail See | Ph.D Candidate @Stanford Univ. | [Pointer Generator](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html) |
+| Eric Wallace | Ph.D Candidate @Berkely Univ. | [AllenNLP Interpret](https://arxiv.org/abs/1909.09251) |
 | Graham Neubig | Professor @CMU | [Neural Nets for NLP](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
 
 <br/>
