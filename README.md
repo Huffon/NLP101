@@ -121,8 +121,8 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Omer Levy | Researcher @FAIR | [Various Word Embedding techniques](https://scholar.google.co.il/citations?user=PZVd2h8AAAAJ&hl=en) |
 | Jason Weston | Researcher @FAIR | [Memory Networks](https://arxiv.org/abs/1410.3916) |
 | Yinhan Liu | Researcher @FAIR | [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf) |
-| Guillaume Lample | Researcher @FAIR | [XLM](https://arxiv.org/pdf/1901.07291.pdf)]
-| Alexis Conneau | Researcher @FAIR | [XLMP](https://arxiv.org/abs/1901.07291) |
+| Guillaume Lample | Researcher @FAIR | [XLM](https://arxiv.org/pdf/1901.07291.pdf) |
+| Alexis Conneau | Researcher @FAIR | [XLM-R](https://arxiv.org/abs/1901.07291) |
 | Ashish Vaswani | Researcher @Google | [Transformer](https://arxiv.org/abs/1706.03762) |
 | Jacob Devlin | Researcher @Google | [BERT](https://arxiv.org/abs/1810.04805) |
 | Matthew Peters | Researcher @Allen AI | [ELMo](https://arxiv.org/abs/1802.05365) |
