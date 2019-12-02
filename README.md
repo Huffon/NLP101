@@ -91,6 +91,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 <br/>
 
 ## Communities
+- [Allen AI NLP Highlights](https://allenai.org/podcasts/podcasts-all.html)
 - [Tensorflow Korea](https://www.facebook.com/groups/TensorFlowKR/)
 - [PyTorch Korea](https://www.facebook.com/groups/PyTorchKR/)
 - [Keras Korea](https://www.facebook.com/groups/KerasKorea/)
@@ -114,7 +115,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Kyunghyun Cho | Professor @NYU | [GRU](https://arxiv.org/abs/1406.1078) |
 | Yejin Choi | Professor @Washington Univ. | [Grover](https://arxiv.org/abs/1905.12616) |
 | Yoon Kim | Ph.D Candidate @Harvard Univ. | [CNN for NLP](https://www.aclweb.org/anthology/D14-1181) |
-| Minjoon Seo | Researcher @Clova AI | [BiDAF](https://arxiv.org/abs/1611.01603) |
+| Minjoon Seo | Researcher @Clova AI, Allen AI | [BiDAF](https://arxiv.org/abs/1611.01603) |
 | Kyubyong Park | Researcher @Kakao Brain | [Paper implementation & NLP with Korean language](https://github.com/Kyubyong) |
 | Tomas Mikolov | Researcher @FAIR | [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |
 | Omer Levy | Researcher @FAIR | [Various Word Embedding techniques](https://scholar.google.co.il/citations?user=PZVd2h8AAAAJ&hl=en) |
@@ -134,9 +135,10 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Yoav Goldberg | Professor @Bar Ilan Univ. | [Neural Net Methods for NLP](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) |
 | Chris Manning | Professor @Stanford Univ. | [CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
 | Dan Jurafsky | Professor @Stanford Univ. | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+| Graham Neubig | Professor @CMU | [Neural Nets for NLP](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
+| Zhilin Yang | Ph.D Candidate @CMU | [XLNet](https://arxiv.org/abs/1906.08237) |
 | Abigail See | Ph.D Candidate @Stanford Univ. | [Pointer Generator](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html) |
 | Eric Wallace | Ph.D Candidate @Berkely Univ. | [AllenNLP Interpret](https://arxiv.org/abs/1909.09251) |
-| Graham Neubig | Professor @CMU | [Neural Nets for NLP](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
 
 <br/>
 
@@ -146,3 +148,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 - [EMNLP](https://www.aclweb.org/anthology/venues/emnlp/)
 - [ICML](https://icml.cc/)
 - [ICLR](https://www.iclr.cc/)
+- [NeurIPS](https://nips.cc/)
+- [AAAI](http://www.aaai.org/)
+- [EurNLP](https://www.eurnlp.org/)
+- [한국어정보처리학회](http://www.kips.or.kr/)
