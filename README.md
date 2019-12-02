@@ -69,8 +69,9 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [Tensorflow](https://www.tensorflow.org/tutorials/text/word_embeddings) | Tensorflow에서 직접 제공하는 튜토리얼로, 최근 퀄리티가 급상승하였습니다. 기본적인 지식을 그림 자료와 함께 훌륭하고 설명합니다. |
 | [spaCy](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 spaCy의 핵심 개발자 Ines가 작성한 튜토리얼입니다. |
 | [torchtext](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/) | PyTorch 사용 시, 손 쉽게 데이터 전처리가 가능한 torchtext의 튜토리얼입니다. 공식 문서보다 더 자세한 설명을 수반하고 있습니다. |
-| [SentencePiece](https://github.com/google/sentencepiece) | Sub-word Information을 이용해 BPE 기반의 Vocabulary 구축을 도와주는 Google의 오픈 소스 라이브러리입니다. |
+| [SentencePiece](https://github.com/google/sentencepiece) | Subword Information을 이용해 BPE 기반의 Vocabulary 구축을 도와주는 Google의 오픈 소스 라이브러리입니다. |
 | [KoNLPy](http://konlpy.org/en/latest/) | 한국어 자연어 처리에 있어 중요하게 활용되는 여러 형태소 분석기를 포함하고 있는 라이브러리입니다. |
+| [soynlp](https://github.com/lovit/soynlp) | 한국어 자연어 처리를 수행할 때 비지도 학습 기반의 여러 훈련을 가능케 해주는 라이브러리입니다. |
 | [NLTK](https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/) | 김도형 박사님이 제공하는 NLTK 튜토리얼로 보기도 편하며, 내용도 알찹니다. |
 <br/>
 
@@ -81,6 +82,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [Jay Alammar's Blog](http://jalammar.github.io/) | [Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) |
 | [Chris McCormick's Blog](http://mccormickml.com/) | [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) |
 | [Sebastian Ruder's Blog](http://ruder.io/) | [Tracking Progress in Natural Language Processing](https://nlpprogress.com/) |
+| [The Gradient](https://thegradient.pub/) | [Evaluation Metrics for Language Modeling](https://thegradient.pub/understanding-evaluation-metrics-for-language-models/) |
 | [Thomas Wolf's Blog](https://medium.com/@Thomwolf) | [The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a) |
 | [dair.ai](https://medium.com/dair-ai) | [A Light Introduction to Transfer Learning for NLP](https://medium.com/dair-ai/a-light-introduction-to-transfer-learning-for-nlp-3e2cb56b48c8) |
 | [Machine Learning Mastery](https://machinelearningmastery.com/) | [How to Develop a Neural Machine Translation System from Scratch](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/) |
