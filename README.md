@@ -146,11 +146,13 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 
 ## Research Conferences
 - [ACL](https://www.aclweb.org/portal/)
-- [NAACL](https://www.aclweb.org/anthology/venues/naacl/)
-- [EMNLP](https://www.aclweb.org/anthology/venues/emnlp/)
-- [ICML](https://icml.cc/)
-- [ICLR](https://www.iclr.cc/)
-- [NeurIPS](https://nips.cc/)
 - [AAAI](http://www.aaai.org/)
+- [CoNLL](https://www.conll.org/)
+- [EMNLP](https://www.aclweb.org/anthology/venues/emnlp/)
 - [EurNLP](https://www.eurnlp.org/)
+- [ICLR](https://www.iclr.cc/)
+- [ICML](https://icml.cc/)
+- [IJCAI](https://www.ijcai.org/)
+- [NAACL](https://www.aclweb.org/anthology/venues/naacl/)
+- [NeurIPS](https://nips.cc/)
 - [한국어정보처리학회](http://www.kips.or.kr/)
