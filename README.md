@@ -16,21 +16,23 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 |:---:|---|
 | [Statistics 110](https://www.edwith.org/harvardprobability/) | 문과생도 이해할 수 있을 정도로 쉽게 확률론에 대한 설명을 해주는 강의입니다. |
 | [확률과 통계](http://www.kocw.net/home/search/kemView.do?kemId=1056974) | KOCW에서 높은 평점을 자랑하는 한양대학교 이상화 교수님의 확률과 통계 강의입니다. |
+| [Brandon Foltz's Statistics](https://www.youtube.com/user/BCFoltz/playlists) | Youtube에 확률과 통계 강의를 짤막하게 올리는 Brandon Foltz의 강의는 대중 교통을 통해 이동하며 짧은 시간 학습하기 좋은 자료입니다. |
 <br/>
 
 ### Linear Algebra
 | Source | Description |
 |:---:|---|
+| [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 시각 자료를 통해 직관적 설명을 추구하는 3Blue1Brown 채널의 선형대수 강의입니다. 학부 수준의 선형대수 강의를 수강하기 앞서 해당 강의를 시청하는 것이 선형대수의 흐름 전반을 짚는데 큰 도움을 줄 수 있습니다. |
 | [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) | Gilbert Strang 교수의 전설적인 선형대수 강의입니다. |
 | [선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757) | KOCW에서 높은 평점을 자랑하는 한양대학교 이상화 교수님의 선형대수 강의입니다. |
-| [인공지능을 위한 선형대수](https://m.edwith.org/linearalgebra4ai/lectures/14072) | 머신러닝에서 자주 사용되는 선형대수의 기초와 응용을 _(친절하게)_ 다루고 있는 스타 교수 주재걸 교수님의 강의입니다. |
-| [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) | fast.ai의 Rachel Thomas가 강의한 코드를 통해 이해하는 선형대수 강의입니다. 엔지니어 분들이 선형대수를 이해하는데 최적의 강의라고 생각합니다. |
 | [Matrix methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Gilbert Strang 교수의 선형대수 응용편입니다. 선형대수를 선수 지식으로 하기에 난이도가 있지만, 실제 선형대수가 머신러닝에 어떻게 활용되는지 학습할 수 있는 좋은 강의입니다. |
+
 <br/>
 
 ### Basic mathematics & Overview
 | Source | Description |
 |:---:|---|
+| [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 선형대수 섹션에서 설명한 3Blue1Brown 채널의 미적분학 강의입니다. 마찬가지로 학부 수준의 미적분 강의를 진행하기 전 미적분을 이해하는데 도움을 줄 수 있는 강의입니다. | 
 | [Calculus](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) | Gilbert Strang 교수의 미적분학 교재입니다. 모든 챕터를 볼 필요는 없지만, Chapter 2-4, 11-13, 15-16 등은 학습하면 좋을 것 같다고 생각해 추가하였습니다. |
 | [Mathematics for Machine Learning](https://mml-book.github.io/) | 머신러닝 학습에 수반되는 수학 지식을 모두 담은 책입니다. 개괄적 설명을 이어나가기에 이공계 학부 수준의 수학 지식은 선행되어야 이해하기 수월할 것이라 생각합니다. |
 <br/>
@@ -43,6 +45,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [모두를 위한 딥러닝2](https://www.youtube.com/channel/UCC76Jmsg6SAjdvphzGSJMBQ) | 앞서 언급한 김성훈님 강좌의 후속작입니다. Tensorflow와 PyTorch 버전이 각각 존재하며, 최신 코드로 설명을 진행하기 때문에 가치가 있다고 생각합니다. |
 | [CS230](https://www.youtube.com/results?search_query=cs230) | 말이 필요없는, 최근 deeplearning.ai이라는 인공지능 교육 스타트업까지 설립한 Andrew Ng 교수님의 스탠포드 내 딥러닝 강의입니다. |
 | [Deep Learning Book](https://www.deeplearningbook.org/) | GAN의 아버지, Ian Goodfellow 주도로 작성된 명서입니다. 원서를 읽는데 어려움이 없으시다면, 해당 책은 꼭 읽어보시길 추천합니다. |
+| [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) | Deep Learning 관련 Framework를 사용하지 않고, NumPy로 신경망의 기본 요소들을 작성하는 법을 학습할  수 있는 서적입니다. High-level API 내 실제 동작이 어떻게 이루어지는지 학습하기에 좋은 자료입니다. |
 <br/>
 
 ### Natural Language Processing 
@@ -52,9 +55,9 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [밑바닥부터 시작하는 딥러닝2](http://www.hanbit.co.kr/store/books/look.php?p_code=B8950212853) | 밑바닥 시리즈의 자연어 처리 버전입니다. 신경망 이론을 선수 지식으로 필요로 하기에 난이도가 살짝 있지만, 한국어로 번역된 혹은 한국어로 작성된 자연어 책 중 수준급의 책입니다. |
 | [딥러닝을 이용한 자연어 처리 ](https://www.edwith.org/deepnlp) | GRU로 유명한 조경현 교수님이 D2 캠퍼스에서 강의하신 자연어 처리 강의입니다. 딥러닝 지식에 대한 복습 이후, 자연어 처리를 개괄적으로 설명해주기 때문에 딥러닝 기본 지식이 선수 지식으로 필요합니다. |
 | [Neural Network Methods for NLP ](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) | Yoav Goldberg가 작성한 딥러닝을 이용한 자연어 처리 전문 서적입니다. 위트있는 설명으로 핵심을 잘 짚어주는 명서입니다. |
-| [Eisenstein's NLP Note](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf) |  머신러닝을 이용한 자연어 처리 뿐 아니라 자연어 처리를 학습하기 위해 필요한 기본적인 언어학 지식을 함께 다루는 명서입니다. |
+| [Eisenstein's NLP Note](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf) |  머신러닝을 이용한 자연어 처리 뿐 아니라 자연어 처리를 학습하기 위해 필요한 기본적인 언어학 지식을 함께 다루는 명서입니다. 본 Note를 기반으로 한 Eisenstein의 책 [Introduction to Natural Language Processing](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843) 이 출간되었습다. |
 | [CS224N ](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |  Stanford 대학의 자연어 처리 명강의입니다. 2019년 버전까지 나왔기 때문에 최신 트렌드까지 다룬다는 큰 장점이 있습니다. |
-| [CS224U ](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) |  올해 신설된 것으로 보이는 자연어 이해 강의입니다. CS224N 이후 수강하면 좋을 것 같아보이며, PyTorch로 과제를 제공한다는 점이 매력적입니다. |
+| [CS224U ](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) |  GLUE 벤치마크의 등장 이후 그 중요성이 한층 더해진 자연어 이해 강의입니다. CS224N 이후 수강하면 좋을 것 같아보이며, PyTorch로 과제를 제공한다는 점이 매력적입니다. |
 | [Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) | fast.ai의 공동 설립자 Rachel Thomas가 진행하는 코드로 이해하는 자연어 처리 강의입니다. 강의를 듣다보면 Rachel Thomas가 내뿜는 Motivation에서 헤어나올 수 없게 됩니다. | 
 | [Natural Language Processing with PyTorch](https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236) | 양질의 데이터 과학 책을 출판하기로 유명한 O'REILLY 사의 자연어 처리 서적입니다. 기본 코드가 PyTorch로 작성되어 있으므로, PyTorch 유저분들이 읽기 좋은 책입니다. |
 | [Linguistic Fundamentals for Natural Language Processing](https://www.amazon.com/Linguistic-Fundamentals-Natural-Language-Processing/dp/1627050116) | Bender rule로 유명한 언어학자 Emily Bender의 언어학 서적입니다. 딥러닝 관련 서적은 아니지만 언어학과 관련된 도메인 지식을 기를 수 있는 훌륭한 입문서입니다. |
@@ -65,14 +68,18 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Source | Description |
 |:---:|---|
 | [NumPy](http://cs231n.github.io/python-numpy-tutorial/) | 머신러닝 연산에 필수적으로 사용되는 NumPy를 Stanford CS231N 강좌에서 정리해주었습니다. |
+| [Tensorflow](https://www.tensorflow.org/tutorials/text/word_embeddings) | Tensorflow에서 직접 제공하는 튜토리얼입니다. 기본적인 지식을 그림 자료와 함께 훌륭하고 설명합니다. |
 | [PyTorch](https://pytorch.org/tutorials/) | Facebook이 제공하는 PyTorch Tutorial로 양질의 퀄리티를 자랑합니다. |
-| [Tensorflow](https://www.tensorflow.org/tutorials/text/word_embeddings) | Tensorflow에서 직접 제공하는 튜토리얼로, 최근 퀄리티가 급상승하였습니다. 기본적인 지식을 그림 자료와 함께 훌륭하고 설명합니다. |
+| [tensor2tensor](https://github.com/tensorflow/tensor2tensor) | Google에서 제공하는 Sequence to Sequence Tool Kit 입니다. Tensorflow로 작성되었습니다. |
+| [fairseq](https://github.com/pytorch/fairseq) | Facebook에서 제공하는 Sequence to Sequence Tool Kit 입니다. PyTorch로 작성되었습니다. |
+| [Hugging Face Transformers](https://github.com/huggingface/transformers) | Transformer를 기반으로 한 Pre-trained 모델들을 손 쉽게 사용할 수 있도록 프랑스의 Hugging Face가 제공해주고 있는 라이브러리입니다. 개발자 뿐만 아니라 연구자들도 많이 활용하는 자연어 처리의 핵심 라이브러리라 할 수 있겠습니다. |
 | [spaCy](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 spaCy의 핵심 개발자 Ines가 작성한 튜토리얼입니다. |
 | [torchtext](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/) | PyTorch 사용 시, 손 쉽게 데이터 전처리가 가능한 torchtext의 튜토리얼입니다. 공식 문서보다 더 자세한 설명을 수반하고 있습니다. |
 | [SentencePiece](https://github.com/google/sentencepiece) | Subword Information을 이용해 BPE 기반의 Vocabulary 구축을 도와주는 Google의 오픈 소스 라이브러리입니다. |
 | [KoNLPy](http://konlpy.org/en/latest/) | 한국어 자연어 처리에 있어 중요하게 활용되는 여러 형태소 분석기를 포함하고 있는 라이브러리입니다. |
 | [soynlp](https://github.com/lovit/soynlp) | 한국어 자연어 처리를 수행할 때 비지도 학습 기반의 여러 훈련을 가능케 해주는 라이브러리입니다. |
 | [NLTK](https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/) | 김도형 박사님이 제공하는 NLTK 튜토리얼로 보기도 편하며, 내용도 알찹니다. |
+
 <br/>
 
 ## AWESOME blogs
@@ -80,16 +87,18 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 |---|:---:|
 | [Christopher Olah's Blog](https://colah.github.io/) | [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) |
 | [Jay Alammar's Blog](http://jalammar.github.io/) | [Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) |
-| [Chris McCormick's Blog](http://mccormickml.com/) | [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) |
 | [Sebastian Ruder's Blog](http://ruder.io/) | [Tracking Progress in Natural Language Processing](https://nlpprogress.com/) |
+| [Chris McCormick's Blog](http://mccormickml.com/) | [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) |
 | [The Gradient](https://thegradient.pub/) | [Evaluation Metrics for Language Modeling](https://thegradient.pub/understanding-evaluation-metrics-for-language-models/) |
+| [Distill.pub](https://distill.pub/) | [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/) |
 | [Thomas Wolf's Blog](https://medium.com/@Thomwolf) | [The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a) |
 | [dair.ai](https://medium.com/dair-ai) | [A Light Introduction to Transfer Learning for NLP](https://medium.com/dair-ai/a-light-introduction-to-transfer-learning-for-nlp-3e2cb56b48c8) |
 | [Machine Learning Mastery](https://machinelearningmastery.com/) | [How to Develop a Neural Machine Translation System from Scratch](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/) |
+| [ratsgo님 블로그](https://ratsgo.github.io/) | [Word2Vec의 학습 방식](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/) |
 | [스캐터랩 핑퐁팀 블로그](https://blog.pingpong.us/) | [카톡 데이터는 어떻게 정제할 수 있을까?](https://blog.pingpong.us/dialog-bert-1/) |
 | [김현중님 블로그](https://lovit.github.io/) | [Unsupervised tokenizers in soynlp project](https://lovit.github.io/nlp/2018/04/09/three_tokenizers_soynlp/) |
 | [박상길님 블로그](http://docs.likejazz.com/) | [BERT 톺아보기](http://docs.likejazz.com/bert/) |
-| [ratsgo님 블로그](https://ratsgo.github.io/) | [Word2Vec의 학습 방식](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/) |
+
 <br/>
 
 ## Communities
@@ -106,7 +115,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 - [GDG Seoul](https://www.facebook.com/groups/gdgseoul/)
 - [GDG Pangyo](https://www.facebook.com/groups/gdgpangyo/)
 - [Montreal.AI](https://www.facebook.com/MontrealAI/)
-- [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup/)
+
 <br/>
 
 ## NLP Specialists You should remember
