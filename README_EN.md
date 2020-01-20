@@ -15,7 +15,6 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 | Source | Description |
 |:---:|---|
 | [Statistics 110](https://www.edwith.org/harvardprobability/) | A lecture on Probability that can be easily understood by non-engineering major students. |
-| [Probability and Statistics](http://www.kocw.net/home/search/kemView.do?kemId=1056974) | Probability and Statistics lecture of professor Lee from Hanyang University with a great rating among KOCW. |
 | [Brandon Foltz's Statistics](https://www.youtube.com/user/BCFoltz/playlists) | Brandon Foltz's Probability and Statistics lectures are posted on Youtube and is rather short, so it can be easily accessed during daily commute. |
 
 <br/>
@@ -25,7 +24,6 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 |:---:|---|
 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | A Linear algebraic lecture on Youtube channel 3Blue1Brown. Could be a big help for those planning to take undergraduate-level linear algebra since it allows overall understanding. It provides intutitively understandable visual aids to getting the picture of Linear algebra. |
 | [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) | A legendary lecture of professor Gilbert Strang. |
-| [Linear Algebra](http://www.kocw.net/home/search/kemView.do?kemId=977757) | Linear Algebraic lecture of professor Lee from Hanyang University with a great rating among KOCW. |
 | [Matrix methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Professor Gilbert Strang's lecture on applied Linear algebra. As Linear algbra is prerequisite knowledge here, it is quite difficult to understand yet a great lecture to learn how Linear algebra is actually applied in the field of Machine Learning. |
 
 <br/>
@@ -43,8 +41,6 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 ### Deep Learning
 | Source | Description |
 |:---:|---|
-| [Deep Learning for All](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) | A Deep Learning lecture of Sung-hoon Kim, the leader of Clova AI. The best lecture for beginners. |
-| [Deep Learning for All 2](https://www.youtube.com/channel/UCC76Jmsg6SAjdvphzGSJMBQ) | Sung-hoon Kim's recent lecture on Deep Learning. It has Tensorflow and PyTorch versions in up-to-date codes. |
 | [CS230](https://www.youtube.com/results?search_query=cs230) | A Deep Learning lecture of the renouned professor Andrew Ng, who has recently founded a startup on AI education. |
 | [Deep Learning Book](https://www.deeplearningbook.org/) | A book written by Ian Goodfellow, the father of GAN, and other renouned professors. |
 | [Dive into Deep Learning](https://d2l.ai/) | While the 'Deep Learning Book' above has theoretical explanation, this book also includes the codes to check how the notion is actually immplemented. |
@@ -55,9 +51,6 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 ### Natural Language Processing 
 | Source | Description |
 |:---:|---|
-| [Embedding Korean](http://www.yes24.com/Product/Goods/78569687) | An NLP book of Ki-Chang Lee, also known as ratsgo. While the title is 'Embedding' Korean, it deals with all the fundamental knowledge of recent natural language processing. As it includes a lot of formula to explain some challenging concepts, it will be a good introduction for beginners and a supplementary study material for those who need further understanding. |
-| [Deep Learning from Scratch 2](http://www.hanbit.co.kr/store/books/look.php?p_code=B8950212853) | The NLP version of 'from scratch' series. As it is quite difficult to require neural network theory as prerequisite knowledge, it is one of the best books translated/written in Korean. |
-| [Deep Learning for NLP ](https://www.edwith.org/deepnlp) | An NLP lecture by professor Cho, known for GRU. As it gives an broad-brush overview of NLP, prerequisite knowledge of Deep Learning is preferred.|
 | [Neural Network Methods for NLP ](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) | An NLP book using Deep Learning written by Yoav Goldberg. It has witty explanations that lead to the fundamentals. |
 | [Eisenstein's NLP Note](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf) | Awesome book to read that deals with not only NLP with machine learning, but also the basic linguistic knowledge to understand it. Eisenstein's book [Introduction to Natural Language Processing](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843) was published based on this note. |
 | [CS224N ](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) | Awesome NLP lecture from Stanford. It has the 2019 version, dealing with the latest trends.|
@@ -80,9 +73,6 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 | [spaCy](https://course.spacy.io/) | A tutorial written by Ines, the core developer of the noteworthy spaCy. |
 | [torchtext](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/) | A tutorial on torchtext, a package that makes data preprocessing handy. Has more details than the official documentation. |
 | [SentencePiece](https://github.com/google/sentencepiece) | Google's open source library that builds BPE-based vocabulary using subword information. |
-| [KoNLPy](http://konlpy.org/en/latest/) | A library that includes many morpheme analyzers that are crucial in Korean NLP. |
-| [soynlp](https://github.com/lovit/soynlp) | A library that enables training based on unsupervised learning in Korean NLP.|
-| [NLTK](https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/) | Great tutorial on NLTK by Do-hyung Kim, with reader-frienly contents. |
 
 <br/>
 
@@ -98,27 +88,6 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 | [Thomas Wolf's Blog](https://medium.com/@Thomwolf) | [The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a) |
 | [dair.ai](https://medium.com/dair-ai) | [A Light Introduction to Transfer Learning for NLP](https://medium.com/dair-ai/a-light-introduction-to-transfer-learning-for-nlp-3e2cb56b48c8) |
 | [Machine Learning Mastery](https://machinelearningmastery.com/) | [How to Develop a Neural Machine Translation System from Scratch](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/) |
-| [ratsgo's Blog](https://ratsgo.github.io/) | [Learning Mechanism of Word2Vec](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/) |
-| [PingPong from Scatter Lab](https://blog.pingpong.us/) | [How do we cleanse data from KaKaoTalk conversations?](https://blog.pingpong.us/dialog-bert-1/) |
-| [Hyun-joong Kim's Blog](https://lovit.github.io/) | [Unsupervised tokenizers in soynlp project](https://lovit.github.io/nlp/2018/04/09/three_tokenizers_soynlp/) |
-| [Sang-gil Park's Blog](http://docs.likejazz.com/) | [Grasping BERT](http://docs.likejazz.com/bert/) |
-
-<br/>
-
-## Communities
-- [Allen AI NLP Highlights](https://allenai.org/podcasts/podcasts-all.html)
-- [Tensorflow Korea](https://www.facebook.com/groups/TensorFlowKR/)
-- [PyTorch Korea](https://www.facebook.com/groups/PyTorchKR/)
-- [Keras Korea](https://www.facebook.com/groups/KerasKorea/)
-- [Reinforcement Learning Korea](https://www.facebook.com/groups/ReinforcementLearningKR/)
-- [AI Robotics Korea](https://www.facebook.com/groups/airoboticskr/)
-- [Lab for All](http://home.modulabs.co.kr/)
-- [babelPish](https://www.facebook.com/groups/babelPish/)
-- [Chatbot Korea](https://www.facebook.com/groups/ChatbotDevKR/)
-- [Monthly NLP](https://www.facebook.com/monthly.nlp/)
-- [GDG Seoul](https://www.facebook.com/groups/gdgseoul/)
-- [GDG Pangyo](https://www.facebook.com/groups/gdgpangyo/)
-- [Montreal.AI](https://www.facebook.com/MontrealAI/)
 
 <br/>
 
@@ -170,4 +139,3 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 - [IJCAI](https://www.ijcai.org/)
 - [NAACL](https://www.aclweb.org/anthology/venues/naacl/)
 - [NeurIPS](https://nips.cc/)
-- [KIPS](http://www.kips.or.kr/)
