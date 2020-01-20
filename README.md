@@ -8,6 +8,8 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 - 다만, 유사 난이도를 보유한 자료가 한글 자료일 경우, 영어에 어려움이 있으신 분들을 고려해 함께 기록합니다.
 - 난이도의 차이가 있는 자료, 이를테면 선후행 학습이 수반되어야 하는 자료는 모두 기록합니다.
 
+언어: [한국어](/README.md) | [영어](/README_EN.md)
+
 <br/>
 
 ## Mathematics
@@ -77,6 +79,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [tensor2tensor](https://github.com/tensorflow/tensor2tensor) | Google에서 제공하는 Sequence to Sequence Tool Kit 입니다. Tensorflow로 작성되었습니다. |
 | [fairseq](https://github.com/pytorch/fairseq) | Facebook에서 제공하는 Sequence to Sequence Tool Kit 입니다. PyTorch로 작성되었습니다. |
 | [Hugging Face Transformers](https://github.com/huggingface/transformers) | Transformer를 기반으로 한 Pre-trained 모델들을 손 쉽게 사용할 수 있도록 프랑스의 Hugging Face가 제공해주고 있는 라이브러리입니다. 개발자 뿐만 아니라 연구자들도 많이 활용하는 자연어 처리의 핵심 라이브러리라 할 수 있겠습니다. |
+| [Hugging Face Tokenizers](https://github.com/huggingface/tokenizers) | Hugging Face가 관리하는 토크나이저 라이브러리입니다. 핵심 기능들이 Rust로 구현되어 빠른 속도를 자랑하며, BPE를 비롯한 최신 토크나이징 기술을 실험해볼 수 있다는 장점이 있습니다. |
 | [spaCy](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 spaCy의 핵심 개발자 Ines가 작성한 튜토리얼입니다. |
 | [torchtext](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/) | PyTorch 사용 시, 손 쉽게 데이터 전처리가 가능한 torchtext의 튜토리얼입니다. 공식 문서보다 더 자세한 설명을 수반하고 있습니다. |
 | [SentencePiece](https://github.com/google/sentencepiece) | Subword Information을 이용해 BPE 기반의 Vocabulary 구축을 도와주는 Google의 오픈 소스 라이브러리입니다. |
@@ -151,6 +154,8 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Chris Manning | Professor @Stanford Univ. | [CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
 | Dan Jurafsky | Professor @Stanford Univ. | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | Graham Neubig | Professor @CMU | [Neural Nets for NLP](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
+| Nikita Kitaev | Ph.D Candidate @UC Berkeley | [Reformer](https://arxiv.org/abs/2001.04451) | 
+| Zihang Dai | Ph.D Candidate @CMU | [Transformer-XL](https://arxiv.org/abs/1901.02860) |
 | Zhilin Yang | Ph.D Candidate @CMU | [XLNet](https://arxiv.org/abs/1906.08237) |
 | Abigail See | Ph.D Candidate @Stanford Univ. | [Pointer Generator](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html) |
 | Eric Wallace | Ph.D Candidate @Berkely Univ. | [AllenNLP Interpret](https://arxiv.org/abs/1909.09251) |
