@@ -1,4 +1,4 @@
-# NLP 101: a Resouce Repository for Deep Learning and Natural Language Processing
+# NLP 101: a Resource Repository for Deep Learning and Natural Language Processing
 This document is drafted for those who have enthusiasm for Deep Learning in natural language processing. If there are any good recommendations or suggestions, I will try to add more.
 
 _This document is drafted with the rules as follows:_
