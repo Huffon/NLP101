@@ -3,8 +3,7 @@
 추가되었으면 좋겠다 생각하시는 자료를 알려주시면 반영하도록 하겠습니다.
 
 _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
-- 기본적으로 동일한 내용을 다루는 자료는 중복해서 기록하지 않습니다. <br/>
-*e.g.) Dive into Deep Learning과 Deep Learning book 중 더 좋은 자료라고 판단한 Deep Learning book만 기록합니다.*
+- 기본적으로 동일한 내용을 다루는 자료는 중복해서 기록하지 않습니다.
 - 난이도가 유사하다고 판단되는 자료는 하나만 기록합니다.
 - 다만, 유사 난이도를 보유한 자료가 한글 자료일 경우, 영어에 어려움이 있으신 분들을 고려해 함께 기록합니다.
 - 난이도의 차이가 있는 자료, 이를테면 선후행 학습이 수반되어야 하는 자료는 모두 기록합니다.
@@ -48,6 +47,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [모두를 위한 딥러닝2](https://www.youtube.com/channel/UCC76Jmsg6SAjdvphzGSJMBQ) | 앞서 언급한 김성훈님 강좌의 후속작입니다. Tensorflow와 PyTorch 버전이 각각 존재하며, 최신 코드로 설명을 진행하기 때문에 가치가 있다고 생각합니다. |
 | [CS230](https://www.youtube.com/results?search_query=cs230) | 말이 필요없는, 최근 deeplearning.ai이라는 인공지능 교육 스타트업까지 설립한 Andrew Ng 교수님의 스탠포드 내 딥러닝 강의입니다. |
 | [Deep Learning Book](https://www.deeplearningbook.org/) | GAN의 아버지, Ian Goodfellow 주도로 작성된 명서입니다. 원서를 읽는데 어려움이 없으시다면, 해당 책은 꼭 읽어보시길 추천합니다. |
+| [Dive into Deep Learning](https://d2l.ai/) | Deep Learning Book이 이론을 중심으로 Deep Learning을 설명한다면, 본 책은 이론과 더불어 코드로 해당 개념이 어떻게 구현되는지를 함께 다룹니다. |
 | [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) | Deep Learning 관련 Framework를 사용하지 않고, NumPy로 신경망의 기본 요소들을 작성하는 법을 학습할  수 있는 서적입니다. High-level API 내 실제 동작이 어떻게 이루어지는지 학습하기에 좋은 자료입니다. |
 
 <br/>
