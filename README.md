@@ -93,6 +93,8 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 ## Useful materials
 - [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 
+<br/>
+
 ## AWESOME blogs
 | Blog | Article you should read |
 |---|:---:|
