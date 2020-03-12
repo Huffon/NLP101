@@ -14,7 +14,7 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 #### Statistics and Probabilities
 | Source | Description |
 |:---:|---|
-| [Statistics 110](https://www.edwith.org/harvardprobability/) | A lecture on Probability that can be easily understood by non-engineering major students. |
+| [Statistics 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) | A lecture on Probability that can be easily understood by non-engineering major students. |
 | [Brandon Foltz's Statistics](https://www.youtube.com/user/BCFoltz/playlists) | Brandon Foltz's Probability and Statistics lectures are posted on Youtube and is rather short, so it can be easily accessed during daily commute. |
 
 <br/>
@@ -73,6 +73,11 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 | [spaCy](https://course.spacy.io/) | A tutorial written by Ines, the core developer of the noteworthy spaCy. |
 | [torchtext](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/) | A tutorial on torchtext, a package that makes data preprocessing handy. Has more details than the official documentation. |
 | [SentencePiece](https://github.com/google/sentencepiece) | Google's open source library that builds BPE-based vocabulary using subword information. |
+
+<br/>
+
+## Useful materials
+- [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 
 <br/>
 
