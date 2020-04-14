@@ -127,6 +127,7 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 | Chris Manning | Professor @Stanford Univ. | [CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
 | Dan Jurafsky | Professor @Stanford Univ. | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 | Graham Neubig | Professor @CMU | [Neural Nets for NLP](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) |
+| Sam Bowman | Professor @NYU | [NLI Benchmark](https://nlp.stanford.edu/pubs/snli_paper.pdf) |
 | Nikita Kitaev | Ph.D Candidate @UC Berkeley | [Reformer](https://arxiv.org/abs/2001.04451) | 
 | Zihang Dai | Ph.D Candidate @CMU | [Transformer-XL](https://arxiv.org/abs/1901.02860) |
 | Zhilin Yang | Ph.D Candidate @CMU | [XLNet](https://arxiv.org/abs/1906.08237) |
@@ -140,6 +141,7 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 - [ACL](https://www.aclweb.org/portal/)
 - [AAAI](http://www.aaai.org/)
 - [CoNLL](https://www.conll.org/)
+- [COLING](https://dblp.org/db/conf/coling/index)
 - [EMNLP](https://www.aclweb.org/anthology/venues/emnlp/)
 - [EurNLP](https://www.eurnlp.org/)
 - [ICLR](https://www.iclr.cc/)
