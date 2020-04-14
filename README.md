@@ -82,6 +82,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [Hugging Face Transformers](https://github.com/huggingface/transformers) | Transformer를 기반으로 한 Pre-trained 모델들을 손 쉽게 사용할 수 있도록 프랑스의 Hugging Face가 제공해주고 있는 라이브러리입니다. 개발자 뿐만 아니라 연구자들도 많이 활용하는 자연어 처리의 핵심 라이브러리라 할 수 있겠습니다. |
 | [Hugging Face Tokenizers](https://github.com/huggingface/tokenizers) | Hugging Face가 관리하는 토크나이저 라이브러리입니다. 핵심 기능들이 Rust로 구현되어 빠른 속도를 자랑하며, BPE를 비롯한 최신 토크나이징 기술을 실험해볼 수 있다는 장점이 있습니다. |
 | [spaCy](https://course.spacy.io/) | 최근 자연어 처리 분야에서 각광을 받고 있는 spaCy의 핵심 개발자 Ines가 작성한 튜토리얼입니다. |
+| [flair](https://github.com/flairNLP/flair) | 베를린 훔볼트 대학에서 개발되고 있는 라이브러리로, 다양한 시퀀스 라벨링 태스크를 실험해보기 편리한 라이브러리입니다. |
 | [torchtext](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/) | PyTorch 사용 시, 손 쉽게 데이터 전처리가 가능한 torchtext의 튜토리얼입니다. 공식 문서보다 더 자세한 설명을 수반하고 있습니다. |
 | [SentencePiece](https://github.com/google/sentencepiece) | Subword Information을 이용해 BPE 기반의 Vocabulary 구축을 도와주는 Google의 오픈 소스 라이브러리입니다. |
 | [KoNLPy](http://konlpy.org/en/latest/) | 한국어 자연어 처리에 있어 중요하게 활용되는 여러 형태소 분석기를 포함하고 있는 라이브러리입니다. |
@@ -147,8 +148,10 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Yinhan Liu | Researcher @FAIR | [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf) |
 | Guillaume Lample | Researcher @FAIR | [XLM](https://arxiv.org/pdf/1901.07291.pdf) |
 | Alexis Conneau | Researcher @FAIR | [XLM-R](https://arxiv.org/abs/1901.07291) |
+| Mike Lewis | Researcher @FAIR | [BART](https://arxiv.org/abs/1910.13461) |
 | Ashish Vaswani | Researcher @Google | [Transformer](https://arxiv.org/abs/1706.03762) |
 | Jacob Devlin | Researcher @Google | [BERT](https://arxiv.org/abs/1810.04805) |
+| Kenton Lee | Researcher @Google | [E2E Coref](https://arxiv.org/abs/1707.07045) |
 | Matthew Peters | Researcher @Allen AI | [ELMo](https://arxiv.org/abs/1802.05365) |
 | Alec Radford | Researcher @Open AI | [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
 | Sebastian Ruder | Researcher @DeepMind | [NLP Progress](https://nlpprogress.com/) |
@@ -164,6 +167,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | Zihang Dai | Ph.D Candidate @CMU | [Transformer-XL](https://arxiv.org/abs/1901.02860) |
 | Zhilin Yang | Ph.D Candidate @CMU | [XLNet](https://arxiv.org/abs/1906.08237) |
 | Abigail See | Ph.D Candidate @Stanford Univ. | [Pointer Generator](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html) |
+| Kevin Clark | Ph.D Candidate @Stanford Univ. | [ELECTRA](https://arxiv.org/abs/2003.10555)
 | Eric Wallace | Ph.D Candidate @Berkely Univ. | [AllenNLP Interpret](https://arxiv.org/abs/1909.09251) |
 
 <br/>

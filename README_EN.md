@@ -112,8 +112,10 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 | Yinhan Liu | Researcher @FAIR | [RoBERTa](https://arxiv.org/pdf/1907.11692.pdf) |
 | Guillaume Lample | Researcher @FAIR | [XLM](https://arxiv.org/pdf/1901.07291.pdf) |
 | Alexis Conneau | Researcher @FAIR | [XLM-R](https://arxiv.org/abs/1901.07291) |
+| Mike Lewis | Researcher @FAIR | [BART](https://arxiv.org/abs/1910.13461) |
 | Ashish Vaswani | Researcher @Google | [Transformer](https://arxiv.org/abs/1706.03762) |
 | Jacob Devlin | Researcher @Google | [BERT](https://arxiv.org/abs/1810.04805) |
+| Kenton Lee | Researcher @Google | [E2E Coref](https://arxiv.org/abs/1707.07045) |
 | Matthew Peters | Researcher @Allen AI | [ELMo](https://arxiv.org/abs/1802.05365) |
 | Alec Radford | Researcher @Open AI | [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
 | Sebastian Ruder | Researcher @DeepMind | [NLP Progress](https://nlpprogress.com/) |
@@ -129,6 +131,7 @@ Language: [Korean](/README.md) | [English](/README_EN.md)
 | Zihang Dai | Ph.D Candidate @CMU | [Transformer-XL](https://arxiv.org/abs/1901.02860) |
 | Zhilin Yang | Ph.D Candidate @CMU | [XLNet](https://arxiv.org/abs/1906.08237) |
 | Abigail See | Ph.D Candidate @Stanford Univ. | [Pointer Generator](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html) |
+| Kevin Clark | Ph.D Candidate @Stanford Univ. | [ELECTRA](https://arxiv.org/abs/2003.10555)
 | Eric Wallace | Ph.D Candidate @Berkely Univ. | [AllenNLP Interpret](https://arxiv.org/abs/1909.09251) |
 
 <br/>
